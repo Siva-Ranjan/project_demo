@@ -2,7 +2,7 @@
 
 int fact(){
 if(i == 0 && i == 1){
-return 1;\}
+return 1;}
 else{
 return i * fact(i - 1);
 }
